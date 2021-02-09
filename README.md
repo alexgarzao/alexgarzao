@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **alexgarzao/alexgarzao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,11 +16,12 @@ Here are some ideas to get you started:
 
 
 # Alex S. Garzão
-You can also find me by @alexgarzao
-- Feel free to give a look around here :D 
-- 🌱 I’m currently working with GO ! 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexgarzao&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+Hi there 👋
+
+You can also find me by @alexgarzao. I’m currently working with GO ! 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexgarzao&show_icons=true&theme=radical)](https://github.com/alexgarzao/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexgarzao&hide=TeX&layout=compact)
 <!-- Stats-POST-LIST:START -->
